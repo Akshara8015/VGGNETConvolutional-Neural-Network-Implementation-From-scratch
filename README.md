@@ -4,14 +4,14 @@ This repository contains a from-scratch implementation of the VGG-style Convolut
 
 # Tech Stack
 
--Python
--NumPy
--PyTorch
--Matplotlib
+- Python
+- NumPy
+- PyTorch
+- Matplotlib
 
 # Key Learnings
 
--CNN building blocks (conv, pooling, padding, stride)
--Deep network design principles
--Training dynamics & optimization challenges
+- CNN building blocks (conv, pooling, padding, stride)
+- Deep network design principles
+- Training dynamics & optimization challenges
 - How VGG-style architectures work
